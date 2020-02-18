@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+
+HI everbody,
+
+thats my first move on github...
